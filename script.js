@@ -23,4 +23,7 @@ function link_to(element){
     if(element == 'ethan'){
         parent.location.href='../people/ethan.html';
     }
+    if(element == 'wangxinyou'){
+        parent.location.href='../people/wangxinyou.html';
+    }
 }
